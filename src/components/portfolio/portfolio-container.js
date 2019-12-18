@@ -3,8 +3,10 @@ import React, { Component } from "react";
 import PortfolioItem from "./portfolio-item";
 
 export default class PortfolioContainer extends Component {
-    // State
-    // Lifecycle Hooks
+    constructor() {
+        super();
+        console.log("Portfolio container has rendered");
+    }
     render() {
         return (
             <div>
