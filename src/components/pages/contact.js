@@ -19,7 +19,7 @@ export default function() {
             <div className="icon">
               <FontAwesomeIcon icon="phone" />
             </div>
-            <div className="text">555-555-5555</div>
+            <div className="text">608-751-9158</div>
           </div>
 
           <div className="bullet-point-group">
